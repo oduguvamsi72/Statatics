@@ -1,0 +1,1001 @@
+Application_ID,Age,Gender,Education,Employment_Type,Income_Group,Credit_Group,Existing_Loan,Loan_Amount_Group,Loan_Status
+LN0001,59,Male,Not Graduate,Other,Medium,Poor,Yes,Large,Rejected
+LN0002,49,Female,Not Graduate,Salaried,Low,Fair,No,Large,Approved
+LN0003,35,Female,Graduate,Business,Low,Good,No,Large,Rejected
+LN0004,28,Male,Graduate,Business,Low,Good,No,Medium,Rejected
+LN0005,41,Male,Graduate,Salaried,Low,Poor,No,Small,Approved
+LN0006,59,Male,Not Graduate,Salaried,Medium,Fair,No,Small,Approved
+LN0007,39,Male,Graduate,Salaried,Low,Good,Yes,Small,Rejected
+LN0008,43,Female,Graduate,Business,High,Fair,Yes,Medium,Rejected
+LN0009,31,Male,Graduate,Other,Medium,Poor,Yes,Large,Rejected
+LN0010,31,Male,Graduate,Business,Low,Good,Yes,Medium,Approved
+LN0011,44,Male,Not Graduate,Business,Medium,Good,No,Small,Approved
+LN0012,56,Male,Not Graduate,Self-Employed,High,Poor,No,Medium,Rejected
+LN0013,60,Male,Graduate,Business,Medium,Good,No,Large,Rejected
+LN0014,44,Female,Not Graduate,Business,Low,Excellent,Yes,Medium,Approved
+LN0015,23,Male,Graduate,Salaried,High,Good,Yes,Large,Rejected
+LN0016,42,Female,Graduate,Self-Employed,Medium,Good,No,Large,Rejected
+LN0017,22,Male,Graduate,Business,Low,Excellent,Yes,Large,Rejected
+LN0018,44,Male,Graduate,Salaried,Low,Excellent,No,Medium,Rejected
+LN0019,50,Male,Graduate,Business,Medium,Good,No,Medium,Approved
+LN0020,58,Female,Not Graduate,Salaried,Low,Fair,No,Small,Rejected
+LN0021,22,Female,Graduate,Self-Employed,High,Good,No,Small,Rejected
+LN0022,41,Male,Not Graduate,Business,Medium,Good,No,Medium,Approved
+LN0023,53,Male,Graduate,Salaried,High,Fair,Yes,Small,Approved
+LN0024,32,Female,Graduate,Salaried,Medium,Fair,No,Large,Rejected
+LN0025,42,Male,Graduate,Salaried,Low,Good,Yes,Small,Approved
+LN0026,45,Male,Graduate,Business,Low,Good,Yes,Large,Approved
+LN0027,47,Female,Graduate,Salaried,Medium,Fair,No,Medium,Rejected
+LN0028,48,Male,Not Graduate,Other,Medium,Good,No,Small,Approved
+LN0029,36,Male,Graduate,Salaried,Medium,Poor,Yes,Large,Rejected
+LN0030,35,Male,Graduate,Other,Low,Fair,No,Medium,Rejected
+LN0031,23,Male,Graduate,Other,Low,Good,No,Medium,Approved
+LN0032,57,Male,Graduate,Self-Employed,Low,Fair,No,Small,Rejected
+LN0033,27,Female,Graduate,Self-Employed,Medium,Fair,No,Medium,Rejected
+LN0034,41,Male,Graduate,Self-Employed,Low,Excellent,Yes,Small,Approved
+LN0035,29,Male,Graduate,Self-Employed,Medium,Fair,No,Medium,Rejected
+LN0036,59,Male,Graduate,Salaried,Medium,Fair,Yes,Medium,Approved
+LN0037,38,Male,Graduate,Salaried,High,Excellent,No,Medium,Approved
+LN0038,24,Female,Graduate,Salaried,Low,Good,Yes,Medium,Approved
+LN0039,45,Male,Graduate,Salaried,Low,Good,No,Medium,Rejected
+LN0040,34,Male,Graduate,Salaried,Medium,Excellent,Yes,Small,Rejected
+LN0041,29,Female,Not Graduate,Self-Employed,Medium,Poor,No,Large,Rejected
+LN0042,46,Male,Graduate,Other,Low,Good,Yes,Small,Rejected
+LN0043,22,Male,Graduate,Salaried,High,Good,Yes,Medium,Approved
+LN0044,40,Male,Graduate,Self-Employed,High,Good,No,Medium,Rejected
+LN0045,48,Male,Not Graduate,Salaried,Low,Good,No,Large,Approved
+LN0046,27,Male,Graduate,Business,Low,Good,No,Medium,Rejected
+LN0047,28,Male,Graduate,Other,Medium,Good,Yes,Medium,Approved
+LN0048,55,Female,Not Graduate,Business,Medium,Good,No,Medium,Rejected
+LN0049,34,Male,Graduate,Other,Low,Good,No,Medium,Rejected
+LN0050,37,Male,Graduate,Salaried,Medium,Good,Yes,Small,Approved
+LN0051,56,Female,Graduate,Business,Medium,Good,Yes,Medium,Rejected
+LN0052,60,Male,Graduate,Business,Low,Good,No,Medium,Approved
+LN0053,24,Female,Not Graduate,Salaried,Medium,Good,No,Large,Rejected
+LN0054,22,Male,Not Graduate,Other,High,Good,No,Medium,Rejected
+LN0055,26,Male,Graduate,Salaried,Low,Good,No,Medium,Approved
+LN0056,24,Female,Graduate,Self-Employed,Low,Good,No,Small,Approved
+LN0057,49,Male,Graduate,Salaried,Medium,Excellent,Yes,Large,Approved
+LN0058,38,Male,Graduate,Salaried,High,Good,No,Large,Approved
+LN0059,46,Male,Not Graduate,Business,High,Good,No,Small,Approved
+LN0060,54,Male,Graduate,Self-Employed,Medium,Good,Yes,Small,Approved
+LN0061,30,Female,Graduate,Salaried,Medium,Excellent,No,Medium,Approved
+LN0062,56,Male,Not Graduate,Salaried,Medium,Good,Yes,Small,Approved
+LN0063,34,Male,Graduate,Business,Medium,Good,No,Small,Rejected
+LN0064,51,Male,Not Graduate,Salaried,Low,Good,No,Small,Approved
+LN0065,35,Female,Graduate,Salaried,Low,Good,Yes,Small,Rejected
+LN0066,28,Male,Not Graduate,Other,Low,Fair,No,Medium,Rejected
+LN0067,34,Female,Graduate,Business,Medium,Fair,No,Medium,Rejected
+LN0068,43,Male,Graduate,Salaried,Low,Excellent,Yes,Small,Approved
+LN0069,60,Female,Graduate,Business,High,Good,No,Small,Approved
+LN0070,41,Female,Graduate,Business,Low,Good,No,Small,Rejected
+LN0071,36,Female,Not Graduate,Business,Low,Excellent,No,Medium,Approved
+LN0072,38,Female,Not Graduate,Self-Employed,Medium,Good,Yes,Small,Approved
+LN0073,44,Male,Graduate,Salaried,Medium,Good,No,Medium,Approved
+LN0074,46,Male,Graduate,Salaried,Low,Good,Yes,Medium,Approved
+LN0075,45,Male,Graduate,Salaried,Low,Good,No,Small,Approved
+LN0076,49,Male,Graduate,Self-Employed,High,Fair,Yes,Small,Rejected
+LN0077,35,Male,Graduate,Salaried,Low,Good,No,Small,Approved
+LN0078,21,Male,Not Graduate,Self-Employed,Low,Good,No,Medium,Rejected
+LN0079,45,Male,Graduate,Salaried,High,Fair,No,Large,Rejected
+LN0080,27,Male,Graduate,Salaried,Low,Good,No,Small,Approved
+LN0081,29,Female,Graduate,Business,Medium,Fair,Yes,Large,Rejected
+LN0082,44,Male,Not Graduate,Salaried,Medium,Fair,Yes,Small,Rejected
+LN0083,21,Female,Not Graduate,Salaried,Low,Fair,No,Large,Rejected
+LN0084,28,Female,Not Graduate,Business,Low,Poor,No,Medium,Rejected
+LN0085,44,Female,Graduate,Salaried,Low,Good,Yes,Medium,Rejected
+LN0086,31,Male,Graduate,Business,Low,Excellent,No,Medium,Rejected
+LN0087,37,Female,Not Graduate,Business,Low,Good,No,Medium,Approved
+LN0088,28,Female,Graduate,Salaried,Medium,Fair,No,Large,Approved
+LN0089,55,Female,Graduate,Business,Medium,Poor,Yes,Medium,Rejected
+LN0090,55,Male,Not Graduate,Self-Employed,Medium,Fair,Yes,Medium,Rejected
+LN0091,53,Male,Not Graduate,Salaried,High,Good,Yes,Small,Rejected
+LN0092,25,Male,Graduate,Salaried,Medium,Fair,No,Small,Rejected
+LN0093,59,Male,Not Graduate,Salaried,Low,Good,No,Large,Approved
+LN0094,48,Female,Graduate,Other,High,Fair,No,Medium,Approved
+LN0095,27,Female,Graduate,Salaried,Low,Good,No,Medium,Approved
+LN0096,29,Female,Graduate,Self-Employed,Low,Fair,No,Medium,Approved
+LN0097,28,Male,Not Graduate,Self-Employed,Medium,Fair,No,Large,Rejected
+LN0098,32,Female,Not Graduate,Self-Employed,Medium,Good,No,Medium,Rejected
+LN0099,54,Female,Not Graduate,Salaried,Medium,Fair,Yes,Medium,Rejected
+LN0100,53,Female,Graduate,Salaried,Low,Poor,No,Medium,Approved
+LN0101,43,Female,Not Graduate,Business,Medium,Good,No,Medium,Approved
+LN0102,44,Female,Not Graduate,Salaried,Low,Good,Yes,Small,Approved
+LN0103,57,Male,Graduate,Salaried,High,Good,Yes,Large,Rejected
+LN0104,55,Female,Not Graduate,Salaried,Low,Fair,Yes,Medium,Approved
+LN0105,60,Male,Not Graduate,Salaried,High,Fair,No,Large,Rejected
+LN0106,42,Male,Graduate,Business,Medium,Fair,No,Small,Rejected
+LN0107,47,Female,Graduate,Salaried,High,Poor,No,Small,Rejected
+LN0108,55,Male,Graduate,Salaried,Medium,Excellent,No,Large,Approved
+LN0109,21,Female,Graduate,Salaried,Medium,Good,Yes,Medium,Rejected
+LN0110,55,Male,Graduate,Business,Low,Fair,No,Medium,Rejected
+LN0111,57,Female,Not Graduate,Self-Employed,Low,Good,Yes,Medium,Rejected
+LN0112,34,Male,Graduate,Salaried,Low,Fair,No,Medium,Rejected
+LN0113,23,Female,Graduate,Business,High,Excellent,No,Medium,Approved
+LN0114,21,Female,Graduate,Self-Employed,High,Poor,No,Small,Rejected
+LN0115,25,Male,Graduate,Business,Medium,Poor,No,Large,Approved
+LN0116,46,Male,Graduate,Business,Low,Good,No,Large,Rejected
+LN0117,34,Female,Graduate,Salaried,Medium,Good,Yes,Small,Rejected
+LN0118,59,Male,Graduate,Salaried,Medium,Good,No,Large,Approved
+LN0119,47,Male,Graduate,Salaried,Medium,Poor,No,Large,Rejected
+LN0120,29,Male,Graduate,Salaried,Medium,Fair,Yes,Medium,Approved
+LN0121,35,Male,Graduate,Other,High,Good,No,Medium,Rejected
+LN0122,35,Female,Not Graduate,Salaried,Low,Fair,No,Medium,Approved
+LN0123,46,Female,Graduate,Salaried,Medium,Excellent,Yes,Small,Approved
+LN0124,33,Male,Not Graduate,Business,Medium,Poor,No,Medium,Approved
+LN0125,52,Male,Graduate,Self-Employed,Low,Good,Yes,Large,Approved
+LN0126,59,Female,Graduate,Salaried,Low,Good,No,Medium,Rejected
+LN0127,52,Male,Not Graduate,Salaried,Low,Fair,Yes,Medium,Rejected
+LN0128,24,Male,Graduate,Salaried,High,Good,No,Small,Rejected
+LN0129,50,Female,Graduate,Business,Medium,Good,Yes,Small,Approved
+LN0130,57,Female,Graduate,Salaried,Medium,Fair,No,Medium,Approved
+LN0131,43,Female,Graduate,Salaried,High,Excellent,No,Small,Approved
+LN0132,59,Female,Graduate,Self-Employed,Medium,Good,No,Medium,Approved
+LN0133,35,Male,Graduate,Salaried,Low,Fair,No,Medium,Rejected
+LN0134,49,Female,Graduate,Self-Employed,Medium,Fair,No,Medium,Rejected
+LN0135,56,Male,Graduate,Self-Employed,Medium,Fair,Yes,Small,Approved
+LN0136,33,Male,Not Graduate,Salaried,Medium,Good,Yes,Medium,Rejected
+LN0137,52,Male,Not Graduate,Other,Medium,Good,No,Medium,Rejected
+LN0138,27,Male,Not Graduate,Self-Employed,Medium,Good,No,Small,Approved
+LN0139,42,Female,Graduate,Salaried,Low,Excellent,Yes,Small,Approved
+LN0140,48,Male,Not Graduate,Self-Employed,High,Good,No,Small,Rejected
+LN0141,22,Male,Graduate,Business,Low,Good,Yes,Large,Rejected
+LN0142,26,Male,Graduate,Business,Low,Fair,Yes,Small,Rejected
+LN0143,48,Male,Graduate,Salaried,Low,Good,No,Medium,Rejected
+LN0144,48,Female,Not Graduate,Other,Low,Poor,No,Large,Rejected
+LN0145,40,Male,Graduate,Salaried,Low,Good,No,Medium,Approved
+LN0146,50,Female,Graduate,Salaried,High,Fair,No,Small,Approved
+LN0147,31,Male,Graduate,Salaried,High,Poor,No,Large,Approved
+LN0148,48,Male,Not Graduate,Salaried,Low,Poor,No,Small,Rejected
+LN0149,45,Female,Not Graduate,Business,Low,Fair,Yes,Medium,Rejected
+LN0150,59,Male,Not Graduate,Salaried,Low,Good,Yes,Large,Rejected
+LN0151,53,Female,Graduate,Salaried,Low,Good,No,Medium,Rejected
+LN0152,21,Male,Graduate,Business,Low,Good,No,Medium,Rejected
+LN0153,47,Male,Graduate,Salaried,High,Good,No,Small,Rejected
+LN0154,33,Female,Graduate,Salaried,Low,Good,Yes,Medium,Approved
+LN0155,23,Male,Graduate,Salaried,Medium,Fair,Yes,Medium,Rejected
+LN0156,59,Male,Not Graduate,Salaried,Low,Poor,No,Small,Rejected
+LN0157,26,Female,Not Graduate,Salaried,High,Good,Yes,Large,Approved
+LN0158,28,Male,Not Graduate,Self-Employed,Medium,Good,No,Large,Rejected
+LN0159,47,Female,Not Graduate,Salaried,High,Poor,Yes,Large,Rejected
+LN0160,29,Male,Not Graduate,Salaried,Medium,Fair,Yes,Medium,Approved
+LN0161,57,Female,Graduate,Business,Low,Poor,No,Medium,Approved
+LN0162,53,Female,Graduate,Self-Employed,Low,Good,No,Large,Rejected
+LN0163,44,Male,Not Graduate,Salaried,Medium,Fair,Yes,Large,Rejected
+LN0164,35,Female,Graduate,Self-Employed,Medium,Good,Yes,Medium,Rejected
+LN0165,52,Male,Not Graduate,Salaried,Medium,Good,No,Small,Approved
+LN0166,52,Female,Graduate,Self-Employed,Low,Fair,Yes,Small,Approved
+LN0167,44,Male,Graduate,Self-Employed,Low,Excellent,No,Medium,Approved
+LN0168,32,Male,Not Graduate,Salaried,Medium,Good,No,Medium,Approved
+LN0169,59,Male,Not Graduate,Other,Medium,Good,Yes,Large,Approved
+LN0170,22,Male,Not Graduate,Salaried,Medium,Good,No,Small,Rejected
+LN0171,23,Male,Graduate,Business,Low,Good,Yes,Small,Approved
+LN0172,57,Female,Not Graduate,Salaried,Medium,Good,No,Medium,Approved
+LN0173,37,Female,Graduate,Business,Low,Fair,No,Medium,Approved
+LN0174,22,Female,Graduate,Self-Employed,Low,Poor,No,Small,Rejected
+LN0175,22,Male,Graduate,Business,Medium,Poor,Yes,Medium,Rejected
+LN0176,48,Female,Graduate,Salaried,Low,Fair,No,Medium,Rejected
+LN0177,43,Male,Graduate,Self-Employed,Low,Fair,No,Medium,Rejected
+LN0178,57,Male,Not Graduate,Self-Employed,Low,Fair,No,Medium,Rejected
+LN0179,52,Male,Not Graduate,Business,Low,Poor,No,Small,Rejected
+LN0180,53,Male,Graduate,Self-Employed,Low,Good,Yes,Medium,Rejected
+LN0181,21,Female,Graduate,Self-Employed,Low,Excellent,No,Large,Approved
+LN0182,39,Male,Not Graduate,Salaried,Low,Excellent,Yes,Small,Rejected
+LN0183,22,Male,Not Graduate,Salaried,Low,Good,Yes,Large,Approved
+LN0184,46,Male,Not Graduate,Self-Employed,Medium,Good,No,Medium,Rejected
+LN0185,52,Male,Graduate,Salaried,Low,Excellent,Yes,Large,Approved
+LN0186,26,Male,Graduate,Other,Low,Fair,No,Large,Rejected
+LN0187,52,Female,Graduate,Business,Low,Fair,No,Small,Rejected
+LN0188,24,Male,Graduate,Other,Medium,Excellent,No,Medium,Approved
+LN0189,31,Male,Graduate,Salaried,High,Good,No,Small,Approved
+LN0190,37,Male,Not Graduate,Business,Medium,Good,No,Large,Rejected
+LN0191,58,Female,Graduate,Business,Medium,Fair,Yes,Medium,Rejected
+LN0192,44,Female,Graduate,Self-Employed,Medium,Poor,No,Medium,Rejected
+LN0193,25,Female,Graduate,Self-Employed,Medium,Good,Yes,Medium,Approved
+LN0194,54,Female,Graduate,Salaried,Medium,Good,Yes,Large,Rejected
+LN0195,26,Male,Graduate,Business,Low,Fair,No,Small,Rejected
+LN0196,42,Male,Graduate,Self-Employed,Low,Fair,No,Medium,Approved
+LN0197,31,Female,Graduate,Salaried,Low,Good,No,Medium,Approved
+LN0198,36,Female,Not Graduate,Salaried,High,Good,Yes,Medium,Rejected
+LN0199,53,Female,Not Graduate,Other,Medium,Fair,No,Medium,Approved
+LN0200,29,Female,Graduate,Business,Medium,Excellent,Yes,Medium,Approved
+LN0201,26,Female,Graduate,Other,Low,Poor,No,Small,Approved
+LN0202,36,Female,Not Graduate,Self-Employed,Medium,Fair,No,Large,Rejected
+LN0203,49,Female,Graduate,Salaried,Low,Good,No,Small,Approved
+LN0204,23,Female,Graduate,Salaried,Low,Fair,Yes,Medium,Rejected
+LN0205,40,Female,Not Graduate,Salaried,High,Good,Yes,Small,Approved
+LN0206,56,Female,Graduate,Salaried,Medium,Good,Yes,Small,Rejected
+LN0207,39,Male,Graduate,Salaried,Low,Good,No,Small,Rejected
+LN0208,46,Female,Graduate,Salaried,High,Poor,No,Medium,Rejected
+LN0209,23,Male,Graduate,Salaried,Low,Poor,Yes,Medium,Rejected
+LN0210,39,Male,Graduate,Other,High,Fair,No,Small,Approved
+LN0211,40,Female,Not Graduate,Salaried,Low,Good,No,Small,Approved
+LN0212,52,Male,Graduate,Business,Low,Good,No,Large,Rejected
+LN0213,27,Male,Graduate,Self-Employed,Low,Good,No,Small,Approved
+LN0214,53,Male,Not Graduate,Salaried,Low,Good,No,Large,Rejected
+LN0215,60,Male,Graduate,Salaried,Low,Excellent,Yes,Small,Approved
+LN0216,59,Female,Graduate,Salaried,Medium,Good,Yes,Medium,Approved
+LN0217,38,Male,Not Graduate,Salaried,High,Fair,Yes,Small,Approved
+LN0218,60,Male,Graduate,Self-Employed,Medium,Fair,No,Large,Rejected
+LN0219,21,Male,Not Graduate,Salaried,Low,Good,No,Medium,Approved
+LN0220,31,Female,Not Graduate,Salaried,Medium,Fair,No,Medium,Rejected
+LN0221,48,Female,Graduate,Salaried,Low,Poor,Yes,Small,Rejected
+LN0222,45,Male,Graduate,Other,Low,Good,No,Medium,Approved
+LN0223,43,Male,Not Graduate,Business,Medium,Good,Yes,Medium,Rejected
+LN0224,51,Male,Graduate,Business,Medium,Poor,Yes,Small,Rejected
+LN0225,50,Female,Not Graduate,Salaried,Low,Good,No,Small,Approved
+LN0226,55,Female,Graduate,Business,Low,Good,No,Large,Rejected
+LN0227,27,Male,Graduate,Business,High,Good,No,Small,Approved
+LN0228,36,Male,Graduate,Self-Employed,Low,Poor,No,Medium,Rejected
+LN0229,46,Male,Not Graduate,Other,Medium,Fair,Yes,Medium,Rejected
+LN0230,22,Female,Not Graduate,Salaried,Medium,Good,Yes,Large,Rejected
+LN0231,21,Male,Graduate,Other,Low,Good,Yes,Large,Rejected
+LN0232,32,Male,Graduate,Other,Low,Excellent,No,Large,Approved
+LN0233,25,Male,Not Graduate,Salaried,Medium,Good,No,Small,Rejected
+LN0234,57,Male,Graduate,Salaried,Medium,Poor,No,Large,Rejected
+LN0235,52,Female,Graduate,Other,Medium,Poor,No,Small,Approved
+LN0236,29,Male,Not Graduate,Salaried,Medium,Good,Yes,Medium,Approved
+LN0237,55,Female,Graduate,Self-Employed,High,Fair,Yes,Medium,Rejected
+LN0238,39,Female,Not Graduate,Other,Medium,Fair,No,Small,Rejected
+LN0239,36,Male,Graduate,Self-Employed,Medium,Good,Yes,Large,Approved
+LN0240,23,Male,Graduate,Salaried,Medium,Poor,No,Small,Rejected
+LN0241,40,Female,Graduate,Self-Employed,Medium,Fair,No,Medium,Rejected
+LN0242,44,Male,Not Graduate,Salaried,Medium,Fair,No,Medium,Approved
+LN0243,53,Male,Graduate,Self-Employed,Medium,Fair,Yes,Medium,Rejected
+LN0244,44,Female,Graduate,Salaried,Medium,Poor,Yes,Small,Rejected
+LN0245,31,Male,Graduate,Self-Employed,Low,Good,No,Medium,Approved
+LN0246,28,Male,Not Graduate,Self-Employed,Medium,Good,No,Large,Approved
+LN0247,56,Male,Graduate,Business,Low,Fair,No,Small,Rejected
+LN0248,58,Female,Graduate,Self-Employed,Low,Good,No,Medium,Rejected
+LN0249,60,Male,Graduate,Self-Employed,Low,Fair,No,Small,Rejected
+LN0250,40,Male,Graduate,Business,Medium,Good,No,Medium,Rejected
+LN0251,55,Male,Graduate,Salaried,Medium,Excellent,Yes,Large,Approved
+LN0252,45,Male,Not Graduate,Self-Employed,Low,Good,No,Medium,Approved
+LN0253,55,Male,Graduate,Salaried,Medium,Good,Yes,Medium,Rejected
+LN0254,45,Male,Not Graduate,Other,Medium,Poor,Yes,Medium,Rejected
+LN0255,49,Male,Graduate,Salaried,Low,Poor,No,Medium,Rejected
+LN0256,38,Male,Not Graduate,Salaried,Medium,Excellent,No,Small,Approved
+LN0257,38,Male,Graduate,Business,Medium,Fair,No,Small,Approved
+LN0258,22,Male,Graduate,Salaried,Medium,Fair,No,Medium,Approved
+LN0259,55,Male,Not Graduate,Salaried,Medium,Good,No,Medium,Rejected
+LN0260,36,Male,Not Graduate,Self-Employed,Medium,Good,No,Medium,Approved
+LN0261,56,Female,Graduate,Self-Employed,Low,Excellent,No,Small,Approved
+LN0262,53,Male,Graduate,Business,Low,Fair,No,Medium,Approved
+LN0263,24,Male,Not Graduate,Salaried,Low,Excellent,No,Small,Rejected
+LN0264,53,Male,Graduate,Self-Employed,High,Poor,No,Large,Approved
+LN0265,34,Female,Not Graduate,Salaried,Low,Poor,No,Medium,Rejected
+LN0266,41,Female,Not Graduate,Self-Employed,Low,Good,Yes,Small,Approved
+LN0267,40,Male,Graduate,Self-Employed,High,Poor,No,Small,Rejected
+LN0268,28,Male,Graduate,Self-Employed,High,Fair,Yes,Large,Approved
+LN0269,27,Female,Graduate,Salaried,Medium,Good,No,Small,Approved
+LN0270,23,Male,Graduate,Salaried,Low,Fair,Yes,Large,Rejected
+LN0271,37,Male,Graduate,Salaried,Low,Fair,No,Small,Rejected
+LN0272,53,Male,Not Graduate,Salaried,Medium,Fair,No,Large,Rejected
+LN0273,32,Male,Graduate,Salaried,Low,Good,Yes,Large,Rejected
+LN0274,42,Female,Not Graduate,Self-Employed,Low,Good,Yes,Medium,Rejected
+LN0275,42,Female,Graduate,Salaried,Medium,Good,Yes,Small,Rejected
+LN0276,50,Male,Graduate,Other,High,Good,No,Small,Approved
+LN0277,58,Male,Graduate,Salaried,Low,Good,Yes,Medium,Rejected
+LN0278,58,Female,Graduate,Business,Medium,Good,Yes,Medium,Rejected
+LN0279,28,Female,Graduate,Self-Employed,Medium,Poor,Yes,Small,Rejected
+LN0280,47,Male,Graduate,Salaried,Low,Fair,No,Small,Rejected
+LN0281,47,Female,Not Graduate,Salaried,Medium,Good,Yes,Medium,Rejected
+LN0282,54,Female,Graduate,Self-Employed,Low,Fair,No,Medium,Rejected
+LN0283,41,Female,Graduate,Salaried,Low,Excellent,Yes,Small,Rejected
+LN0284,50,Male,Graduate,Other,Medium,Good,No,Small,Approved
+LN0285,53,Male,Graduate,Self-Employed,Low,Good,Yes,Large,Approved
+LN0286,48,Female,Graduate,Other,High,Fair,No,Medium,Approved
+LN0287,53,Male,Graduate,Salaried,Low,Fair,Yes,Medium,Approved
+LN0288,25,Female,Graduate,Business,Medium,Fair,No,Medium,Rejected
+LN0289,39,Male,Graduate,Self-Employed,Medium,Good,No,Small,Approved
+LN0290,24,Male,Graduate,Business,Low,Good,No,Small,Approved
+LN0291,55,Male,Not Graduate,Salaried,Low,Excellent,No,Small,Rejected
+LN0292,37,Male,Graduate,Self-Employed,Medium,Fair,No,Large,Rejected
+LN0293,48,Female,Graduate,Self-Employed,High,Poor,No,Medium,Rejected
+LN0294,50,Female,Graduate,Business,High,Fair,No,Small,Approved
+LN0295,49,Female,Graduate,Salaried,Medium,Good,Yes,Large,Approved
+LN0296,26,Female,Not Graduate,Business,Medium,Excellent,No,Small,Rejected
+LN0297,55,Male,Graduate,Salaried,Medium,Fair,No,Large,Rejected
+LN0298,57,Male,Graduate,Business,Medium,Good,Yes,Large,Approved
+LN0299,44,Male,Graduate,Business,Medium,Fair,Yes,Small,Rejected
+LN0300,49,Male,Graduate,Business,Medium,Good,Yes,Small,Rejected
+LN0301,51,Male,Graduate,Self-Employed,High,Excellent,No,Medium,Rejected
+LN0302,55,Male,Graduate,Salaried,Medium,Fair,Yes,Medium,Rejected
+LN0303,53,Male,Not Graduate,Other,High,Fair,Yes,Medium,Approved
+LN0304,41,Female,Graduate,Salaried,Medium,Excellent,Yes,Large,Rejected
+LN0305,52,Female,Graduate,Self-Employed,Low,Excellent,No,Medium,Rejected
+LN0306,43,Male,Graduate,Self-Employed,Low,Good,No,Small,Approved
+LN0307,53,Female,Graduate,Business,Medium,Good,Yes,Small,Rejected
+LN0308,23,Female,Graduate,Salaried,Medium,Fair,Yes,Medium,Approved
+LN0309,38,Male,Not Graduate,Self-Employed,High,Good,Yes,Small,Approved
+LN0310,45,Female,Not Graduate,Business,Low,Good,No,Medium,Approved
+LN0311,51,Female,Graduate,Salaried,High,Good,No,Small,Approved
+LN0312,23,Male,Not Graduate,Other,High,Fair,No,Small,Approved
+LN0313,60,Male,Not Graduate,Salaried,Low,Fair,Yes,Small,Rejected
+LN0314,44,Male,Not Graduate,Salaried,High,Fair,No,Medium,Rejected
+LN0315,52,Male,Graduate,Salaried,High,Fair,No,Small,Rejected
+LN0316,42,Male,Not Graduate,Salaried,Medium,Poor,Yes,Medium,Rejected
+LN0317,43,Female,Graduate,Other,Medium,Fair,Yes,Medium,Rejected
+LN0318,22,Male,Not Graduate,Salaried,High,Poor,No,Medium,Rejected
+LN0319,47,Male,Graduate,Salaried,Medium,Fair,No,Medium,Approved
+LN0320,22,Female,Graduate,Salaried,Low,Good,No,Small,Approved
+LN0321,46,Female,Not Graduate,Self-Employed,High,Fair,No,Medium,Approved
+LN0322,37,Male,Graduate,Self-Employed,Medium,Poor,No,Small,Approved
+LN0323,60,Male,Not Graduate,Salaried,Medium,Fair,Yes,Medium,Rejected
+LN0324,53,Male,Not Graduate,Salaried,Low,Fair,No,Small,Approved
+LN0325,29,Female,Graduate,Business,Medium,Good,No,Medium,Approved
+LN0326,59,Male,Graduate,Salaried,Low,Poor,Yes,Large,Rejected
+LN0327,49,Male,Not Graduate,Self-Employed,High,Good,No,Medium,Approved
+LN0328,46,Female,Graduate,Salaried,Low,Excellent,Yes,Medium,Approved
+LN0329,55,Male,Graduate,Business,Low,Good,Yes,Medium,Rejected
+LN0330,45,Female,Not Graduate,Salaried,Medium,Good,No,Small,Approved
+LN0331,44,Female,Graduate,Self-Employed,Low,Excellent,No,Large,Approved
+LN0332,33,Male,Graduate,Salaried,Medium,Good,No,Small,Approved
+LN0333,27,Female,Not Graduate,Other,High,Poor,Yes,Large,Rejected
+LN0334,56,Male,Graduate,Salaried,High,Fair,No,Medium,Approved
+LN0335,40,Female,Graduate,Business,Low,Excellent,No,Medium,Rejected
+LN0336,21,Male,Not Graduate,Salaried,Low,Fair,No,Medium,Rejected
+LN0337,28,Female,Graduate,Salaried,High,Poor,No,Medium,Rejected
+LN0338,36,Male,Not Graduate,Business,High,Good,No,Medium,Approved
+LN0339,34,Female,Not Graduate,Salaried,Medium,Good,Yes,Small,Approved
+LN0340,32,Female,Not Graduate,Business,Medium,Fair,No,Medium,Rejected
+LN0341,43,Male,Graduate,Other,Low,Good,Yes,Medium,Approved
+LN0342,35,Female,Graduate,Business,High,Fair,Yes,Large,Rejected
+LN0343,48,Male,Graduate,Salaried,Medium,Good,No,Medium,Rejected
+LN0344,54,Male,Not Graduate,Business,Low,Fair,No,Small,Rejected
+LN0345,22,Male,Not Graduate,Salaried,Low,Fair,Yes,Small,Approved
+LN0346,52,Male,Graduate,Business,High,Good,No,Medium,Rejected
+LN0347,43,Male,Graduate,Self-Employed,Low,Good,Yes,Small,Approved
+LN0348,42,Female,Graduate,Business,Low,Good,No,Small,Rejected
+LN0349,45,Male,Graduate,Self-Employed,Medium,Fair,No,Large,Approved
+LN0350,42,Female,Not Graduate,Self-Employed,Low,Fair,No,Medium,Rejected
+LN0351,42,Male,Graduate,Salaried,Low,Good,Yes,Medium,Rejected
+LN0352,26,Female,Not Graduate,Business,High,Fair,No,Small,Rejected
+LN0353,35,Female,Not Graduate,Salaried,High,Fair,No,Medium,Approved
+LN0354,57,Male,Graduate,Self-Employed,High,Fair,No,Small,Rejected
+LN0355,53,Female,Graduate,Business,High,Good,No,Medium,Approved
+LN0356,28,Male,Graduate,Self-Employed,Medium,Excellent,No,Small,Approved
+LN0357,25,Female,Graduate,Salaried,High,Excellent,Yes,Large,Approved
+LN0358,59,Male,Not Graduate,Self-Employed,Medium,Good,No,Medium,Rejected
+LN0359,24,Female,Not Graduate,Salaried,Medium,Fair,No,Medium,Rejected
+LN0360,26,Male,Not Graduate,Salaried,High,Fair,Yes,Medium,Approved
+LN0361,52,Male,Graduate,Salaried,Low,Good,No,Medium,Approved
+LN0362,50,Female,Graduate,Salaried,Medium,Fair,Yes,Small,Rejected
+LN0363,55,Male,Not Graduate,Salaried,Medium,Excellent,No,Medium,Approved
+LN0364,60,Male,Graduate,Business,Low,Fair,No,Small,Rejected
+LN0365,36,Male,Graduate,Salaried,Low,Excellent,Yes,Large,Rejected
+LN0366,33,Male,Graduate,Salaried,High,Good,No,Large,Rejected
+LN0367,50,Male,Not Graduate,Other,High,Good,Yes,Small,Approved
+LN0368,39,Male,Graduate,Salaried,Medium,Fair,No,Large,Approved
+LN0369,37,Male,Graduate,Self-Employed,Low,Poor,Yes,Medium,Rejected
+LN0370,39,Male,Not Graduate,Business,Low,Fair,No,Small,Rejected
+LN0371,48,Female,Graduate,Other,High,Fair,Yes,Large,Rejected
+LN0372,46,Male,Graduate,Business,Medium,Poor,No,Medium,Approved
+LN0373,57,Male,Graduate,Business,Low,Good,No,Medium,Approved
+LN0374,46,Male,Not Graduate,Business,Medium,Fair,Yes,Medium,Approved
+LN0375,43,Male,Graduate,Salaried,Low,Good,No,Small,Rejected
+LN0376,29,Female,Graduate,Business,Medium,Good,No,Large,Approved
+LN0377,32,Male,Graduate,Salaried,High,Poor,No,Small,Approved
+LN0378,21,Male,Not Graduate,Other,Medium,Excellent,Yes,Small,Approved
+LN0379,21,Female,Graduate,Salaried,Medium,Fair,No,Medium,Approved
+LN0380,54,Female,Not Graduate,Self-Employed,Medium,Fair,Yes,Medium,Rejected
+LN0381,52,Male,Not Graduate,Salaried,Medium,Good,Yes,Medium,Rejected
+LN0382,45,Female,Graduate,Business,Medium,Good,No,Small,Approved
+LN0383,60,Female,Not Graduate,Salaried,Low,Poor,Yes,Small,Rejected
+LN0384,21,Male,Graduate,Business,Medium,Fair,Yes,Small,Approved
+LN0385,36,Female,Not Graduate,Business,Low,Good,Yes,Large,Approved
+LN0386,59,Female,Graduate,Salaried,High,Fair,Yes,Small,Approved
+LN0387,25,Male,Not Graduate,Business,Medium,Good,Yes,Medium,Rejected
+LN0388,42,Male,Graduate,Business,High,Excellent,No,Medium,Approved
+LN0389,49,Male,Graduate,Self-Employed,Low,Excellent,Yes,Large,Approved
+LN0390,23,Female,Graduate,Salaried,Medium,Poor,No,Large,Rejected
+LN0391,32,Female,Graduate,Salaried,Medium,Fair,Yes,Small,Rejected
+LN0392,46,Female,Graduate,Salaried,Medium,Fair,No,Small,Rejected
+LN0393,36,Male,Graduate,Salaried,Low,Fair,Yes,Medium,Rejected
+LN0394,57,Female,Graduate,Other,Medium,Fair,No,Small,Rejected
+LN0395,42,Male,Graduate,Salaried,Medium,Fair,No,Medium,Rejected
+LN0396,49,Male,Not Graduate,Business,Low,Excellent,Yes,Medium,Approved
+LN0397,34,Male,Graduate,Salaried,Low,Excellent,No,Large,Rejected
+LN0398,48,Female,Graduate,Self-Employed,Medium,Poor,No,Small,Approved
+LN0399,25,Male,Graduate,Business,Medium,Fair,Yes,Large,Rejected
+LN0400,50,Female,Graduate,Business,Low,Fair,No,Small,Rejected
+LN0401,25,Male,Not Graduate,Salaried,Low,Fair,No,Medium,Rejected
+LN0402,32,Male,Graduate,Salaried,Low,Good,No,Medium,Rejected
+LN0403,36,Male,Not Graduate,Salaried,Medium,Good,Yes,Medium,Approved
+LN0404,46,Male,Not Graduate,Salaried,Medium,Excellent,No,Medium,Rejected
+LN0405,46,Female,Not Graduate,Salaried,High,Good,No,Large,Rejected
+LN0406,41,Male,Not Graduate,Salaried,High,Good,No,Large,Rejected
+LN0407,59,Female,Not Graduate,Salaried,Medium,Good,No,Large,Rejected
+LN0408,56,Male,Not Graduate,Business,Low,Fair,Yes,Small,Rejected
+LN0409,53,Female,Graduate,Salaried,Low,Good,No,Large,Rejected
+LN0410,50,Male,Graduate,Self-Employed,Low,Good,Yes,Medium,Approved
+LN0411,57,Female,Graduate,Salaried,High,Poor,Yes,Small,Approved
+LN0412,43,Female,Graduate,Business,Medium,Fair,No,Small,Rejected
+LN0413,30,Male,Graduate,Business,Low,Fair,No,Small,Rejected
+LN0414,25,Male,Graduate,Self-Employed,Medium,Excellent,Yes,Small,Rejected
+LN0415,56,Female,Graduate,Business,Medium,Fair,No,Medium,Rejected
+LN0416,54,Female,Graduate,Salaried,Medium,Fair,No,Large,Rejected
+LN0417,51,Male,Graduate,Self-Employed,Low,Fair,No,Medium,Approved
+LN0418,30,Female,Graduate,Salaried,High,Good,No,Medium,Approved
+LN0419,39,Female,Graduate,Salaried,Medium,Poor,No,Large,Rejected
+LN0420,52,Female,Graduate,Business,Low,Excellent,Yes,Small,Approved
+LN0421,21,Female,Graduate,Business,High,Excellent,Yes,Large,Rejected
+LN0422,25,Female,Not Graduate,Salaried,Low,Good,No,Medium,Rejected
+LN0423,24,Male,Graduate,Self-Employed,High,Good,Yes,Medium,Rejected
+LN0424,36,Male,Graduate,Self-Employed,High,Poor,No,Small,Rejected
+LN0425,44,Male,Not Graduate,Salaried,Medium,Fair,No,Medium,Approved
+LN0426,36,Female,Graduate,Salaried,Medium,Good,No,Small,Approved
+LN0427,22,Female,Graduate,Salaried,Low,Poor,Yes,Medium,Rejected
+LN0428,48,Male,Not Graduate,Salaried,High,Fair,No,Small,Approved
+LN0429,52,Female,Not Graduate,Salaried,Medium,Good,No,Large,Approved
+LN0430,47,Female,Graduate,Salaried,Medium,Fair,No,Medium,Approved
+LN0431,40,Male,Graduate,Salaried,High,Excellent,Yes,Small,Approved
+LN0432,44,Male,Not Graduate,Business,High,Poor,No,Medium,Rejected
+LN0433,32,Male,Graduate,Self-Employed,High,Good,No,Small,Approved
+LN0434,55,Male,Graduate,Other,Low,Good,No,Medium,Approved
+LN0435,53,Male,Not Graduate,Salaried,High,Good,No,Large,Approved
+LN0436,53,Male,Graduate,Business,Medium,Fair,Yes,Medium,Rejected
+LN0437,57,Male,Graduate,Business,High,Good,Yes,Small,Rejected
+LN0438,32,Male,Graduate,Self-Employed,Medium,Excellent,No,Medium,Rejected
+LN0439,23,Male,Not Graduate,Salaried,Low,Good,No,Medium,Approved
+LN0440,21,Male,Graduate,Business,Medium,Fair,No,Large,Rejected
+LN0441,53,Female,Graduate,Salaried,Medium,Good,Yes,Small,Approved
+LN0442,60,Male,Graduate,Salaried,Medium,Good,Yes,Medium,Rejected
+LN0443,30,Female,Graduate,Self-Employed,Low,Fair,Yes,Medium,Approved
+LN0444,49,Female,Graduate,Self-Employed,Medium,Excellent,Yes,Small,Approved
+LN0445,33,Male,Not Graduate,Salaried,Low,Fair,No,Small,Rejected
+LN0446,32,Male,Graduate,Other,High,Good,No,Medium,Rejected
+LN0447,51,Male,Graduate,Business,Medium,Good,Yes,Large,Rejected
+LN0448,22,Male,Not Graduate,Self-Employed,Low,Good,Yes,Large,Approved
+LN0449,55,Male,Graduate,Other,Low,Excellent,Yes,Medium,Approved
+LN0450,43,Male,Not Graduate,Salaried,Low,Excellent,No,Medium,Rejected
+LN0451,37,Male,Graduate,Other,Medium,Fair,Yes,Small,Approved
+LN0452,46,Male,Not Graduate,Self-Employed,Low,Poor,No,Large,Rejected
+LN0453,28,Male,Graduate,Salaried,Low,Poor,No,Large,Rejected
+LN0454,49,Female,Not Graduate,Business,High,Good,No,Large,Approved
+LN0455,46,Male,Graduate,Self-Employed,High,Excellent,No,Medium,Approved
+LN0456,30,Male,Graduate,Business,Medium,Fair,No,Small,Rejected
+LN0457,46,Male,Graduate,Other,High,Fair,No,Large,Rejected
+LN0458,54,Female,Graduate,Business,Low,Poor,Yes,Medium,Rejected
+LN0459,27,Male,Graduate,Self-Employed,Medium,Good,No,Small,Approved
+LN0460,24,Male,Not Graduate,Business,Medium,Fair,No,Medium,Approved
+LN0461,31,Female,Graduate,Self-Employed,Medium,Fair,Yes,Small,Rejected
+LN0462,49,Male,Not Graduate,Salaried,Medium,Good,No,Small,Approved
+LN0463,56,Female,Graduate,Business,Medium,Good,Yes,Medium,Approved
+LN0464,45,Female,Graduate,Salaried,Medium,Good,No,Medium,Rejected
+LN0465,41,Female,Graduate,Business,Medium,Good,No,Large,Approved
+LN0466,56,Female,Graduate,Business,Low,Fair,No,Small,Rejected
+LN0467,30,Female,Not Graduate,Business,Low,Good,No,Small,Approved
+LN0468,57,Female,Not Graduate,Business,Low,Good,No,Small,Approved
+LN0469,29,Female,Graduate,Business,Low,Excellent,No,Small,Rejected
+LN0470,44,Female,Graduate,Salaried,Medium,Fair,No,Small,Rejected
+LN0471,55,Male,Graduate,Business,Low,Poor,No,Medium,Rejected
+LN0472,55,Male,Not Graduate,Salaried,High,Poor,No,Medium,Approved
+LN0473,56,Male,Graduate,Salaried,Low,Fair,No,Medium,Approved
+LN0474,38,Male,Graduate,Salaried,Low,Good,No,Large,Rejected
+LN0475,59,Male,Not Graduate,Self-Employed,Medium,Poor,No,Medium,Approved
+LN0476,52,Male,Graduate,Self-Employed,Low,Good,No,Small,Approved
+LN0477,44,Male,Graduate,Business,Medium,Fair,No,Small,Approved
+LN0478,43,Female,Graduate,Salaried,Medium,Poor,Yes,Large,Rejected
+LN0479,52,Female,Not Graduate,Self-Employed,Low,Good,No,Medium,Rejected
+LN0480,57,Male,Graduate,Salaried,Low,Fair,No,Large,Rejected
+LN0481,32,Male,Graduate,Salaried,Medium,Fair,Yes,Large,Approved
+LN0482,33,Female,Graduate,Self-Employed,Low,Good,Yes,Large,Rejected
+LN0483,43,Male,Graduate,Salaried,Low,Good,No,Large,Rejected
+LN0484,45,Female,Graduate,Salaried,Low,Poor,Yes,Medium,Rejected
+LN0485,55,Male,Graduate,Salaried,Low,Excellent,Yes,Small,Approved
+LN0486,50,Male,Graduate,Salaried,Medium,Good,No,Large,Approved
+LN0487,37,Female,Graduate,Salaried,Medium,Good,No,Medium,Rejected
+LN0488,40,Male,Graduate,Salaried,Medium,Poor,No,Small,Approved
+LN0489,45,Female,Graduate,Business,Low,Poor,No,Medium,Rejected
+LN0490,42,Female,Not Graduate,Business,Low,Poor,No,Medium,Rejected
+LN0491,33,Male,Graduate,Self-Employed,High,Fair,Yes,Large,Rejected
+LN0492,39,Female,Not Graduate,Other,Medium,Fair,No,Medium,Rejected
+LN0493,56,Female,Not Graduate,Salaried,High,Excellent,No,Small,Approved
+LN0494,32,Male,Graduate,Self-Employed,Medium,Good,No,Large,Approved
+LN0495,39,Female,Graduate,Other,Medium,Fair,Yes,Large,Approved
+LN0496,32,Male,Graduate,Salaried,Medium,Good,No,Medium,Approved
+LN0497,29,Male,Graduate,Other,Low,Poor,Yes,Small,Rejected
+LN0498,27,Male,Graduate,Salaried,Medium,Good,No,Medium,Approved
+LN0499,48,Male,Graduate,Salaried,Medium,Good,Yes,Medium,Approved
+LN0500,34,Female,Graduate,Salaried,Low,Good,No,Small,Approved
+LN0501,51,Female,Not Graduate,Business,Low,Excellent,No,Small,Rejected
+LN0502,39,Female,Graduate,Self-Employed,Medium,Fair,Yes,Medium,Rejected
+LN0503,36,Female,Not Graduate,Business,High,Good,No,Medium,Rejected
+LN0504,25,Male,Graduate,Salaried,Medium,Excellent,No,Medium,Rejected
+LN0505,55,Male,Not Graduate,Salaried,Low,Good,No,Small,Rejected
+LN0506,32,Female,Graduate,Salaried,Low,Good,No,Medium,Rejected
+LN0507,45,Male,Graduate,Salaried,Medium,Excellent,No,Medium,Approved
+LN0508,41,Male,Graduate,Other,Low,Poor,No,Small,Rejected
+LN0509,56,Female,Graduate,Salaried,High,Excellent,Yes,Small,Rejected
+LN0510,43,Male,Graduate,Business,Low,Poor,Yes,Medium,Rejected
+LN0511,36,Male,Not Graduate,Business,Medium,Good,Yes,Large,Rejected
+LN0512,59,Male,Graduate,Salaried,Medium,Excellent,No,Medium,Approved
+LN0513,59,Male,Graduate,Self-Employed,High,Fair,Yes,Small,Approved
+LN0514,34,Female,Not Graduate,Salaried,Medium,Good,Yes,Small,Approved
+LN0515,51,Male,Not Graduate,Salaried,Medium,Fair,No,Large,Approved
+LN0516,25,Female,Graduate,Salaried,High,Excellent,No,Small,Approved
+LN0517,55,Male,Graduate,Self-Employed,Low,Good,No,Medium,Approved
+LN0518,43,Male,Graduate,Salaried,High,Good,Yes,Medium,Approved
+LN0519,49,Male,Graduate,Self-Employed,Low,Good,No,Small,Rejected
+LN0520,31,Male,Not Graduate,Self-Employed,Medium,Good,No,Large,Approved
+LN0521,38,Female,Not Graduate,Salaried,Medium,Fair,No,Medium,Rejected
+LN0522,32,Female,Not Graduate,Self-Employed,Low,Fair,Yes,Medium,Rejected
+LN0523,29,Male,Not Graduate,Business,High,Good,No,Small,Approved
+LN0524,30,Male,Graduate,Salaried,Low,Fair,No,Small,Rejected
+LN0525,37,Male,Not Graduate,Salaried,Low,Poor,Yes,Medium,Rejected
+LN0526,58,Male,Not Graduate,Business,Medium,Poor,No,Medium,Approved
+LN0527,27,Female,Graduate,Salaried,Medium,Poor,No,Small,Rejected
+LN0528,33,Male,Not Graduate,Self-Employed,Medium,Excellent,Yes,Small,Approved
+LN0529,60,Male,Graduate,Salaried,Low,Good,No,Small,Approved
+LN0530,29,Male,Graduate,Salaried,Low,Good,Yes,Large,Rejected
+LN0531,47,Male,Not Graduate,Salaried,Low,Fair,Yes,Medium,Rejected
+LN0532,22,Male,Graduate,Salaried,Low,Fair,No,Large,Approved
+LN0533,25,Male,Graduate,Self-Employed,Medium,Fair,No,Small,Approved
+LN0534,49,Male,Graduate,Salaried,Medium,Good,No,Large,Rejected
+LN0535,57,Male,Graduate,Business,High,Good,No,Small,Approved
+LN0536,58,Female,Not Graduate,Business,High,Excellent,Yes,Medium,Approved
+LN0537,39,Male,Graduate,Self-Employed,Low,Good,No,Large,Approved
+LN0538,28,Female,Graduate,Business,Medium,Good,No,Small,Approved
+LN0539,21,Male,Not Graduate,Salaried,Low,Good,No,Medium,Approved
+LN0540,42,Female,Graduate,Salaried,Low,Excellent,No,Small,Rejected
+LN0541,37,Female,Graduate,Business,Medium,Good,No,Small,Approved
+LN0542,27,Female,Graduate,Salaried,Low,Poor,No,Medium,Rejected
+LN0543,45,Female,Not Graduate,Self-Employed,Low,Good,No,Medium,Rejected
+LN0544,24,Male,Graduate,Salaried,High,Good,Yes,Medium,Approved
+LN0545,56,Male,Graduate,Self-Employed,Medium,Good,No,Medium,Approved
+LN0546,26,Male,Graduate,Business,Medium,Fair,Yes,Medium,Rejected
+LN0547,51,Male,Graduate,Business,Low,Excellent,Yes,Small,Rejected
+LN0548,39,Male,Graduate,Business,Low,Excellent,Yes,Small,Approved
+LN0549,59,Male,Graduate,Business,High,Fair,No,Large,Rejected
+LN0550,47,Male,Graduate,Self-Employed,Low,Excellent,No,Small,Rejected
+LN0551,30,Male,Not Graduate,Self-Employed,Medium,Poor,No,Medium,Rejected
+LN0552,46,Female,Graduate,Salaried,Low,Poor,No,Small,Rejected
+LN0553,39,Female,Not Graduate,Salaried,Medium,Poor,No,Medium,Rejected
+LN0554,59,Female,Not Graduate,Salaried,Low,Poor,Yes,Medium,Rejected
+LN0555,23,Male,Not Graduate,Other,High,Good,Yes,Small,Rejected
+LN0556,33,Male,Not Graduate,Salaried,High,Poor,No,Small,Rejected
+LN0557,48,Male,Graduate,Self-Employed,Medium,Fair,No,Medium,Approved
+LN0558,40,Male,Graduate,Self-Employed,Low,Poor,No,Medium,Approved
+LN0559,48,Female,Graduate,Self-Employed,High,Fair,No,Small,Rejected
+LN0560,28,Male,Graduate,Business,Medium,Poor,Yes,Medium,Rejected
+LN0561,59,Female,Not Graduate,Salaried,Medium,Good,No,Small,Approved
+LN0562,21,Male,Not Graduate,Self-Employed,Medium,Poor,No,Large,Rejected
+LN0563,23,Male,Graduate,Business,Low,Excellent,No,Medium,Rejected
+LN0564,33,Female,Graduate,Salaried,Low,Good,Yes,Small,Approved
+LN0565,48,Male,Not Graduate,Salaried,Medium,Poor,No,Medium,Approved
+LN0566,45,Male,Graduate,Self-Employed,Low,Excellent,No,Medium,Approved
+LN0567,53,Male,Graduate,Business,Medium,Poor,Yes,Small,Rejected
+LN0568,58,Male,Not Graduate,Salaried,Medium,Fair,No,Medium,Rejected
+LN0569,26,Male,Graduate,Business,High,Poor,No,Small,Rejected
+LN0570,52,Male,Graduate,Business,High,Fair,No,Small,Approved
+LN0571,41,Male,Graduate,Salaried,High,Good,No,Small,Approved
+LN0572,36,Male,Not Graduate,Other,Low,Good,No,Medium,Approved
+LN0573,41,Male,Graduate,Business,Low,Fair,No,Small,Rejected
+LN0574,31,Female,Graduate,Business,Medium,Good,Yes,Medium,Approved
+LN0575,57,Male,Graduate,Business,Low,Fair,Yes,Medium,Rejected
+LN0576,56,Female,Graduate,Salaried,Low,Good,Yes,Medium,Approved
+LN0577,55,Male,Graduate,Salaried,Medium,Fair,No,Medium,Rejected
+LN0578,39,Male,Not Graduate,Salaried,Medium,Poor,No,Large,Approved
+LN0579,40,Female,Graduate,Salaried,High,Fair,No,Medium,Rejected
+LN0580,38,Male,Not Graduate,Salaried,Low,Fair,No,Medium,Rejected
+LN0581,34,Male,Graduate,Business,Low,Good,No,Small,Rejected
+LN0582,35,Male,Graduate,Business,Low,Good,No,Large,Rejected
+LN0583,51,Male,Graduate,Self-Employed,High,Poor,Yes,Small,Rejected
+LN0584,21,Male,Graduate,Business,Medium,Good,No,Small,Approved
+LN0585,23,Male,Graduate,Business,High,Good,No,Medium,Rejected
+LN0586,36,Female,Graduate,Salaried,High,Excellent,No,Small,Approved
+LN0587,43,Male,Graduate,Salaried,Medium,Fair,No,Small,Rejected
+LN0588,31,Male,Graduate,Self-Employed,Medium,Good,No,Medium,Rejected
+LN0589,32,Male,Graduate,Business,Low,Excellent,Yes,Medium,Approved
+LN0590,30,Female,Not Graduate,Salaried,Medium,Good,No,Medium,Approved
+LN0591,52,Male,Not Graduate,Self-Employed,Medium,Fair,No,Large,Rejected
+LN0592,36,Male,Graduate,Salaried,Medium,Poor,No,Small,Rejected
+LN0593,28,Male,Graduate,Business,High,Fair,No,Small,Approved
+LN0594,58,Female,Graduate,Business,High,Good,No,Medium,Rejected
+LN0595,32,Male,Graduate,Business,Medium,Good,No,Small,Approved
+LN0596,44,Male,Graduate,Other,Medium,Poor,No,Medium,Rejected
+LN0597,48,Male,Not Graduate,Business,Medium,Good,No,Small,Rejected
+LN0598,28,Male,Graduate,Other,Low,Good,No,Medium,Rejected
+LN0599,48,Male,Graduate,Other,Low,Good,No,Medium,Approved
+LN0600,56,Male,Not Graduate,Business,Medium,Good,No,Medium,Rejected
+LN0601,46,Female,Graduate,Self-Employed,Medium,Good,No,Medium,Rejected
+LN0602,28,Female,Not Graduate,Salaried,Low,Fair,Yes,Medium,Rejected
+LN0603,48,Male,Graduate,Salaried,High,Excellent,No,Small,Approved
+LN0604,48,Female,Graduate,Self-Employed,Low,Fair,Yes,Small,Approved
+LN0605,57,Male,Graduate,Salaried,Low,Fair,No,Small,Rejected
+LN0606,56,Male,Graduate,Salaried,Medium,Fair,Yes,Medium,Approved
+LN0607,47,Male,Not Graduate,Other,Low,Poor,Yes,Medium,Rejected
+LN0608,37,Female,Graduate,Business,Low,Fair,Yes,Medium,Rejected
+LN0609,29,Male,Not Graduate,Business,Low,Poor,Yes,Small,Rejected
+LN0610,53,Male,Graduate,Salaried,Medium,Good,Yes,Medium,Rejected
+LN0611,40,Male,Graduate,Salaried,Medium,Poor,No,Large,Rejected
+LN0612,33,Female,Graduate,Salaried,Medium,Good,No,Small,Approved
+LN0613,48,Male,Graduate,Salaried,Medium,Poor,No,Small,Approved
+LN0614,49,Male,Not Graduate,Salaried,Low,Excellent,No,Small,Rejected
+LN0615,33,Male,Graduate,Salaried,High,Good,Yes,Medium,Approved
+LN0616,55,Male,Graduate,Other,Low,Poor,No,Medium,Rejected
+LN0617,26,Male,Graduate,Business,High,Good,Yes,Small,Rejected
+LN0618,38,Female,Graduate,Salaried,Medium,Good,Yes,Medium,Rejected
+LN0619,25,Male,Graduate,Salaried,High,Good,No,Small,Approved
+LN0620,45,Male,Graduate,Self-Employed,Low,Good,Yes,Medium,Rejected
+LN0621,22,Female,Not Graduate,Salaried,Medium,Good,No,Medium,Approved
+LN0622,30,Male,Graduate,Other,Low,Good,No,Medium,Rejected
+LN0623,50,Male,Graduate,Salaried,Low,Fair,No,Small,Approved
+LN0624,25,Female,Graduate,Salaried,Medium,Poor,No,Large,Rejected
+LN0625,53,Male,Graduate,Salaried,Low,Good,Yes,Medium,Approved
+LN0626,21,Male,Not Graduate,Salaried,Medium,Fair,No,Small,Rejected
+LN0627,38,Male,Graduate,Self-Employed,Low,Good,Yes,Small,Approved
+LN0628,52,Male,Graduate,Business,Low,Poor,No,Medium,Rejected
+LN0629,31,Male,Graduate,Self-Employed,Medium,Good,Yes,Large,Rejected
+LN0630,41,Male,Graduate,Salaried,Medium,Excellent,No,Large,Approved
+LN0631,46,Male,Graduate,Self-Employed,Medium,Fair,No,Medium,Approved
+LN0632,45,Male,Not Graduate,Self-Employed,Medium,Fair,No,Large,Rejected
+LN0633,42,Female,Not Graduate,Business,High,Good,No,Small,Rejected
+LN0634,47,Female,Not Graduate,Salaried,Low,Good,No,Small,Rejected
+LN0635,33,Male,Graduate,Salaried,Medium,Fair,No,Large,Approved
+LN0636,53,Male,Graduate,Self-Employed,High,Fair,No,Medium,Rejected
+LN0637,54,Female,Graduate,Self-Employed,Medium,Excellent,Yes,Medium,Approved
+LN0638,55,Male,Graduate,Salaried,Medium,Good,No,Medium,Approved
+LN0639,21,Male,Not Graduate,Salaried,Medium,Poor,Yes,Large,Rejected
+LN0640,41,Female,Graduate,Self-Employed,Medium,Poor,Yes,Medium,Rejected
+LN0641,26,Male,Not Graduate,Business,Medium,Good,No,Large,Approved
+LN0642,48,Female,Not Graduate,Salaried,Low,Fair,No,Medium,Rejected
+LN0643,37,Female,Graduate,Other,Low,Fair,No,Small,Approved
+LN0644,25,Male,Graduate,Self-Employed,High,Excellent,Yes,Large,Approved
+LN0645,51,Male,Graduate,Other,Low,Poor,No,Small,Rejected
+LN0646,25,Male,Graduate,Business,Medium,Good,Yes,Large,Rejected
+LN0647,58,Female,Not Graduate,Salaried,Medium,Fair,Yes,Medium,Rejected
+LN0648,23,Female,Graduate,Business,Medium,Good,Yes,Medium,Rejected
+LN0649,43,Female,Graduate,Salaried,Low,Good,No,Medium,Rejected
+LN0650,57,Male,Graduate,Other,Low,Poor,No,Small,Rejected
+LN0651,57,Female,Not Graduate,Self-Employed,High,Good,Yes,Small,Rejected
+LN0652,30,Female,Graduate,Salaried,High,Poor,No,Large,Approved
+LN0653,30,Male,Not Graduate,Self-Employed,Medium,Excellent,Yes,Large,Rejected
+LN0654,39,Female,Graduate,Other,Medium,Excellent,No,Small,Approved
+LN0655,37,Female,Not Graduate,Salaried,Medium,Fair,No,Large,Rejected
+LN0656,41,Female,Not Graduate,Self-Employed,Medium,Fair,No,Large,Rejected
+LN0657,34,Male,Graduate,Business,Medium,Fair,No,Medium,Rejected
+LN0658,29,Male,Graduate,Business,Low,Good,No,Small,Approved
+LN0659,21,Male,Not Graduate,Salaried,Medium,Fair,No,Large,Rejected
+LN0660,33,Male,Graduate,Salaried,Medium,Fair,No,Medium,Rejected
+LN0661,24,Male,Not Graduate,Salaried,High,Fair,No,Large,Approved
+LN0662,21,Female,Graduate,Self-Employed,Low,Poor,No,Large,Rejected
+LN0663,60,Female,Not Graduate,Salaried,Medium,Good,Yes,Large,Rejected
+LN0664,52,Female,Not Graduate,Other,Medium,Poor,No,Medium,Rejected
+LN0665,54,Male,Not Graduate,Salaried,Medium,Good,No,Small,Approved
+LN0666,48,Male,Graduate,Business,Low,Fair,Yes,Small,Approved
+LN0667,51,Male,Graduate,Salaried,Medium,Fair,No,Small,Approved
+LN0668,28,Female,Graduate,Salaried,Medium,Good,No,Small,Approved
+LN0669,59,Female,Graduate,Salaried,Low,Excellent,No,Medium,Rejected
+LN0670,46,Female,Graduate,Salaried,Medium,Good,No,Medium,Rejected
+LN0671,54,Male,Graduate,Business,Medium,Fair,No,Large,Rejected
+LN0672,23,Female,Not Graduate,Other,Medium,Fair,No,Small,Rejected
+LN0673,32,Female,Graduate,Self-Employed,High,Excellent,No,Medium,Rejected
+LN0674,21,Male,Graduate,Other,Low,Fair,No,Small,Approved
+LN0675,25,Female,Not Graduate,Business,Low,Poor,No,Small,Rejected
+LN0676,50,Male,Graduate,Self-Employed,Medium,Excellent,No,Small,Approved
+LN0677,50,Male,Graduate,Business,Low,Good,No,Medium,Approved
+LN0678,37,Female,Not Graduate,Self-Employed,Low,Excellent,No,Small,Approved
+LN0679,43,Male,Not Graduate,Salaried,Low,Excellent,No,Medium,Approved
+LN0680,35,Female,Graduate,Business,Low,Excellent,Yes,Small,Approved
+LN0681,57,Male,Graduate,Salaried,High,Poor,Yes,Large,Approved
+LN0682,41,Male,Not Graduate,Self-Employed,Low,Poor,No,Large,Rejected
+LN0683,34,Male,Graduate,Business,Medium,Good,No,Large,Approved
+LN0684,22,Male,Graduate,Salaried,Low,Good,Yes,Large,Rejected
+LN0685,31,Male,Graduate,Salaried,Medium,Good,Yes,Large,Approved
+LN0686,59,Male,Graduate,Other,Low,Fair,Yes,Large,Rejected
+LN0687,58,Male,Graduate,Self-Employed,Medium,Fair,No,Medium,Rejected
+LN0688,54,Male,Graduate,Salaried,Medium,Good,Yes,Small,Rejected
+LN0689,58,Male,Graduate,Business,Low,Poor,No,Small,Rejected
+LN0690,54,Male,Not Graduate,Self-Employed,Medium,Fair,No,Small,Approved
+LN0691,38,Female,Graduate,Self-Employed,Low,Good,No,Medium,Approved
+LN0692,50,Female,Not Graduate,Other,Medium,Good,No,Medium,Approved
+LN0693,35,Male,Not Graduate,Business,Low,Fair,Yes,Large,Rejected
+LN0694,47,Male,Graduate,Salaried,High,Good,No,Large,Approved
+LN0695,54,Female,Graduate,Business,Low,Good,No,Medium,Rejected
+LN0696,58,Female,Graduate,Business,Medium,Fair,No,Medium,Rejected
+LN0697,53,Female,Graduate,Salaried,Low,Poor,No,Large,Rejected
+LN0698,44,Female,Not Graduate,Salaried,Low,Fair,No,Small,Rejected
+LN0699,35,Male,Graduate,Salaried,Medium,Fair,Yes,Medium,Rejected
+LN0700,50,Male,Not Graduate,Business,High,Excellent,No,Small,Approved
+LN0701,37,Male,Graduate,Self-Employed,Low,Poor,Yes,Medium,Rejected
+LN0702,25,Male,Graduate,Self-Employed,Low,Good,No,Small,Approved
+LN0703,49,Male,Graduate,Other,Low,Poor,Yes,Large,Rejected
+LN0704,24,Male,Graduate,Business,Low,Fair,Yes,Medium,Rejected
+LN0705,30,Male,Graduate,Salaried,Low,Good,No,Small,Rejected
+LN0706,37,Female,Graduate,Salaried,Medium,Fair,Yes,Small,Rejected
+LN0707,30,Female,Graduate,Salaried,Low,Good,No,Medium,Approved
+LN0708,37,Male,Graduate,Salaried,Low,Fair,Yes,Large,Rejected
+LN0709,40,Female,Not Graduate,Self-Employed,Medium,Fair,Yes,Medium,Approved
+LN0710,44,Male,Graduate,Business,Medium,Good,No,Medium,Approved
+LN0711,25,Female,Not Graduate,Salaried,Low,Fair,No,Small,Rejected
+LN0712,54,Male,Not Graduate,Self-Employed,Low,Excellent,No,Medium,Approved
+LN0713,26,Female,Not Graduate,Business,Medium,Good,Yes,Medium,Approved
+LN0714,22,Female,Graduate,Salaried,Low,Fair,No,Medium,Approved
+LN0715,33,Male,Not Graduate,Salaried,Medium,Poor,No,Small,Approved
+LN0716,31,Male,Graduate,Salaried,Low,Good,No,Medium,Approved
+LN0717,43,Male,Graduate,Salaried,Medium,Good,No,Medium,Rejected
+LN0718,36,Male,Graduate,Other,Low,Fair,No,Large,Rejected
+LN0719,51,Male,Not Graduate,Salaried,Medium,Good,No,Large,Approved
+LN0720,31,Male,Graduate,Salaried,High,Fair,No,Medium,Approved
+LN0721,36,Male,Not Graduate,Self-Employed,Medium,Good,No,Medium,Rejected
+LN0722,28,Female,Graduate,Other,Low,Poor,No,Small,Rejected
+LN0723,24,Female,Not Graduate,Salaried,Low,Excellent,Yes,Large,Approved
+LN0724,60,Male,Not Graduate,Salaried,Low,Good,No,Medium,Rejected
+LN0725,24,Male,Graduate,Salaried,Low,Fair,No,Small,Rejected
+LN0726,45,Male,Not Graduate,Salaried,Low,Fair,Yes,Medium,Approved
+LN0727,23,Female,Graduate,Salaried,Medium,Fair,Yes,Large,Rejected
+LN0728,52,Male,Graduate,Self-Employed,Medium,Excellent,Yes,Small,Approved
+LN0729,23,Female,Graduate,Salaried,Medium,Fair,Yes,Medium,Rejected
+LN0730,47,Female,Graduate,Salaried,Medium,Poor,No,Medium,Approved
+LN0731,49,Male,Graduate,Business,Medium,Good,No,Small,Approved
+LN0732,52,Male,Graduate,Salaried,Low,Good,No,Small,Approved
+LN0733,39,Female,Graduate,Salaried,High,Good,Yes,Large,Rejected
+LN0734,41,Female,Not Graduate,Salaried,Low,Good,No,Large,Rejected
+LN0735,25,Male,Not Graduate,Other,Medium,Fair,No,Small,Rejected
+LN0736,38,Male,Not Graduate,Salaried,Medium,Excellent,No,Large,Rejected
+LN0737,48,Female,Not Graduate,Business,Medium,Fair,No,Medium,Approved
+LN0738,42,Male,Not Graduate,Business,Medium,Poor,Yes,Medium,Rejected
+LN0739,41,Female,Graduate,Salaried,Low,Good,No,Medium,Rejected
+LN0740,26,Male,Graduate,Other,Medium,Good,No,Large,Approved
+LN0741,21,Male,Not Graduate,Salaried,Medium,Fair,No,Medium,Rejected
+LN0742,25,Female,Graduate,Salaried,Medium,Good,No,Small,Rejected
+LN0743,32,Male,Not Graduate,Business,High,Fair,Yes,Large,Rejected
+LN0744,46,Male,Graduate,Business,Low,Fair,No,Medium,Approved
+LN0745,54,Male,Graduate,Self-Employed,Low,Excellent,No,Small,Rejected
+LN0746,34,Male,Graduate,Salaried,Low,Poor,Yes,Medium,Rejected
+LN0747,46,Female,Graduate,Salaried,Low,Fair,No,Medium,Approved
+LN0748,47,Male,Graduate,Business,Medium,Good,Yes,Large,Approved
+LN0749,29,Male,Not Graduate,Salaried,Medium,Excellent,Yes,Medium,Approved
+LN0750,46,Female,Graduate,Salaried,Medium,Good,Yes,Small,Rejected
+LN0751,42,Female,Graduate,Salaried,High,Good,Yes,Medium,Approved
+LN0752,50,Male,Not Graduate,Salaried,High,Good,No,Medium,Approved
+LN0753,37,Male,Not Graduate,Business,High,Excellent,Yes,Small,Approved
+LN0754,46,Female,Graduate,Salaried,Low,Excellent,Yes,Medium,Approved
+LN0755,56,Female,Not Graduate,Other,Medium,Fair,No,Large,Rejected
+LN0756,21,Male,Graduate,Salaried,Low,Fair,No,Small,Approved
+LN0757,28,Male,Graduate,Business,Low,Good,No,Medium,Rejected
+LN0758,55,Male,Graduate,Salaried,Medium,Good,No,Small,Approved
+LN0759,35,Female,Not Graduate,Salaried,Low,Good,No,Small,Rejected
+LN0760,42,Female,Graduate,Salaried,Low,Good,Yes,Medium,Approved
+LN0761,34,Female,Graduate,Salaried,Low,Excellent,No,Small,Approved
+LN0762,46,Female,Not Graduate,Self-Employed,Low,Poor,Yes,Large,Rejected
+LN0763,48,Female,Graduate,Other,High,Fair,No,Small,Approved
+LN0764,43,Male,Graduate,Self-Employed,Low,Fair,Yes,Medium,Approved
+LN0765,34,Male,Graduate,Salaried,Low,Fair,No,Small,Rejected
+LN0766,44,Male,Graduate,Salaried,Medium,Poor,No,Large,Rejected
+LN0767,22,Male,Graduate,Salaried,Medium,Poor,No,Medium,Approved
+LN0768,46,Female,Graduate,Self-Employed,High,Good,Yes,Medium,Approved
+LN0769,34,Male,Not Graduate,Business,Low,Excellent,No,Small,Approved
+LN0770,27,Male,Graduate,Other,Medium,Good,No,Medium,Rejected
+LN0771,23,Male,Graduate,Salaried,Medium,Good,No,Small,Approved
+LN0772,43,Male,Graduate,Self-Employed,High,Fair,Yes,Large,Rejected
+LN0773,38,Male,Graduate,Salaried,Medium,Good,No,Medium,Rejected
+LN0774,58,Male,Graduate,Self-Employed,High,Good,No,Medium,Approved
+LN0775,55,Female,Not Graduate,Self-Employed,Low,Good,No,Medium,Approved
+LN0776,35,Male,Graduate,Business,Medium,Fair,No,Medium,Approved
+LN0777,45,Female,Not Graduate,Self-Employed,Medium,Poor,No,Medium,Rejected
+LN0778,57,Male,Not Graduate,Salaried,High,Poor,No,Medium,Approved
+LN0779,48,Male,Graduate,Business,Low,Good,No,Medium,Approved
+LN0780,30,Male,Not Graduate,Salaried,Low,Good,No,Medium,Rejected
+LN0781,59,Male,Graduate,Business,Low,Excellent,Yes,Medium,Approved
+LN0782,37,Female,Graduate,Salaried,Low,Good,No,Small,Rejected
+LN0783,59,Male,Graduate,Self-Employed,Low,Good,Yes,Large,Rejected
+LN0784,42,Male,Graduate,Other,High,Excellent,Yes,Medium,Approved
+LN0785,46,Female,Graduate,Business,Medium,Fair,No,Medium,Approved
+LN0786,45,Male,Graduate,Business,Medium,Fair,Yes,Large,Approved
+LN0787,37,Male,Graduate,Self-Employed,Medium,Excellent,No,Small,Rejected
+LN0788,33,Female,Graduate,Business,Medium,Fair,No,Large,Rejected
+LN0789,40,Male,Graduate,Self-Employed,Low,Excellent,No,Large,Rejected
+LN0790,45,Male,Not Graduate,Business,Low,Excellent,No,Large,Approved
+LN0791,24,Female,Not Graduate,Salaried,Low,Good,No,Large,Rejected
+LN0792,30,Female,Graduate,Other,Medium,Good,Yes,Medium,Approved
+LN0793,23,Male,Graduate,Other,Medium,Good,No,Small,Approved
+LN0794,38,Female,Not Graduate,Business,Low,Good,No,Medium,Approved
+LN0795,56,Male,Not Graduate,Salaried,Medium,Fair,No,Small,Approved
+LN0796,42,Male,Not Graduate,Salaried,High,Poor,No,Small,Rejected
+LN0797,54,Male,Graduate,Business,High,Fair,No,Medium,Rejected
+LN0798,28,Male,Graduate,Salaried,High,Good,Yes,Small,Rejected
+LN0799,60,Male,Graduate,Business,Medium,Poor,No,Large,Rejected
+LN0800,39,Male,Graduate,Self-Employed,Low,Poor,No,Large,Rejected
+LN0801,57,Female,Not Graduate,Salaried,Medium,Poor,Yes,Large,Rejected
+LN0802,26,Female,Not Graduate,Other,Low,Good,No,Medium,Approved
+LN0803,46,Male,Graduate,Self-Employed,Medium,Excellent,No,Large,Approved
+LN0804,54,Female,Not Graduate,Self-Employed,Medium,Excellent,No,Large,Approved
+LN0805,26,Male,Graduate,Self-Employed,Low,Good,Yes,Medium,Approved
+LN0806,57,Male,Graduate,Salaried,Medium,Excellent,Yes,Small,Approved
+LN0807,53,Female,Graduate,Business,High,Good,No,Large,Approved
+LN0808,42,Male,Not Graduate,Salaried,Low,Good,Yes,Large,Rejected
+LN0809,41,Male,Graduate,Other,High,Good,No,Medium,Rejected
+LN0810,26,Male,Not Graduate,Business,Low,Poor,No,Small,Rejected
+LN0811,26,Male,Not Graduate,Salaried,Medium,Excellent,No,Medium,Rejected
+LN0812,24,Male,Graduate,Business,Medium,Fair,No,Small,Rejected
+LN0813,50,Male,Graduate,Self-Employed,Medium,Fair,No,Large,Rejected
+LN0814,31,Female,Not Graduate,Salaried,High,Good,Yes,Large,Rejected
+LN0815,50,Male,Graduate,Other,High,Fair,Yes,Small,Approved
+LN0816,51,Male,Not Graduate,Salaried,Medium,Fair,No,Medium,Rejected
+LN0817,44,Male,Not Graduate,Salaried,Low,Good,No,Small,Rejected
+LN0818,29,Male,Graduate,Self-Employed,High,Poor,No,Medium,Rejected
+LN0819,23,Female,Graduate,Self-Employed,Low,Good,No,Small,Rejected
+LN0820,51,Female,Not Graduate,Self-Employed,High,Good,No,Medium,Rejected
+LN0821,60,Female,Graduate,Business,Low,Good,Yes,Medium,Rejected
+LN0822,57,Male,Graduate,Self-Employed,Low,Good,Yes,Small,Approved
+LN0823,56,Male,Graduate,Self-Employed,Medium,Good,Yes,Medium,Approved
+LN0824,44,Male,Graduate,Salaried,Low,Good,No,Small,Approved
+LN0825,51,Female,Not Graduate,Salaried,Low,Good,No,Medium,Approved
+LN0826,26,Male,Not Graduate,Salaried,Low,Good,No,Small,Approved
+LN0827,22,Male,Graduate,Salaried,Low,Good,No,Medium,Rejected
+LN0828,40,Female,Graduate,Self-Employed,Low,Excellent,No,Large,Rejected
+LN0829,48,Male,Graduate,Salaried,Low,Fair,No,Large,Rejected
+LN0830,31,Male,Not Graduate,Salaried,Medium,Fair,Yes,Large,Rejected
+LN0831,24,Male,Graduate,Salaried,Low,Excellent,No,Large,Rejected
+LN0832,35,Female,Graduate,Other,Medium,Fair,No,Small,Rejected
+LN0833,26,Male,Graduate,Other,Low,Poor,Yes,Small,Rejected
+LN0834,50,Female,Graduate,Self-Employed,High,Good,No,Medium,Rejected
+LN0835,58,Female,Not Graduate,Other,High,Poor,No,Large,Rejected
+LN0836,22,Male,Graduate,Business,Low,Fair,Yes,Large,Rejected
+LN0837,35,Female,Graduate,Self-Employed,Medium,Excellent,No,Small,Approved
+LN0838,31,Male,Graduate,Salaried,High,Good,No,Medium,Approved
+LN0839,28,Male,Not Graduate,Business,High,Fair,Yes,Small,Rejected
+LN0840,46,Female,Graduate,Business,Medium,Excellent,No,Medium,Approved
+LN0841,25,Female,Graduate,Self-Employed,Low,Excellent,Yes,Medium,Approved
+LN0842,26,Male,Graduate,Business,Medium,Fair,No,Small,Rejected
+LN0843,46,Male,Not Graduate,Self-Employed,Medium,Fair,Yes,Medium,Rejected
+LN0844,24,Male,Graduate,Business,Medium,Good,No,Medium,Approved
+LN0845,39,Male,Graduate,Other,Low,Good,No,Medium,Rejected
+LN0846,40,Male,Graduate,Salaried,High,Good,Yes,Small,Rejected
+LN0847,53,Male,Not Graduate,Business,High,Excellent,No,Large,Rejected
+LN0848,40,Male,Graduate,Salaried,Low,Good,No,Medium,Approved
+LN0849,32,Male,Not Graduate,Self-Employed,Low,Fair,No,Large,Approved
+LN0850,21,Male,Graduate,Business,Low,Good,No,Large,Rejected
+LN0851,46,Male,Graduate,Salaried,High,Fair,No,Small,Approved
+LN0852,34,Male,Graduate,Self-Employed,Medium,Good,Yes,Small,Rejected
+LN0853,58,Female,Not Graduate,Salaried,Medium,Good,Yes,Medium,Approved
+LN0854,57,Male,Graduate,Self-Employed,Medium,Poor,No,Small,Rejected
+LN0855,31,Female,Not Graduate,Salaried,Medium,Good,No,Large,Approved
+LN0856,56,Female,Not Graduate,Business,Low,Fair,No,Medium,Rejected
+LN0857,33,Male,Graduate,Salaried,Medium,Fair,No,Large,Approved
+LN0858,23,Female,Not Graduate,Self-Employed,Medium,Good,No,Small,Rejected
+LN0859,53,Male,Not Graduate,Salaried,High,Fair,No,Small,Rejected
+LN0860,26,Male,Graduate,Business,High,Good,Yes,Medium,Rejected
+LN0861,30,Male,Graduate,Other,High,Poor,Yes,Small,Approved
+LN0862,25,Male,Not Graduate,Other,Medium,Good,No,Medium,Approved
+LN0863,43,Male,Graduate,Business,Medium,Good,No,Large,Rejected
+LN0864,30,Male,Not Graduate,Business,Medium,Good,No,Medium,Approved
+LN0865,22,Female,Not Graduate,Salaried,High,Good,Yes,Medium,Approved
+LN0866,33,Female,Graduate,Salaried,Low,Excellent,No,Small,Approved
+LN0867,60,Male,Not Graduate,Salaried,Low,Fair,No,Small,Rejected
+LN0868,22,Female,Graduate,Business,Low,Poor,Yes,Large,Rejected
+LN0869,40,Male,Graduate,Other,Medium,Fair,No,Large,Approved
+LN0870,21,Male,Graduate,Salaried,Low,Poor,No,Medium,Approved
+LN0871,57,Female,Graduate,Other,Low,Excellent,No,Large,Rejected
+LN0872,29,Male,Graduate,Business,Low,Fair,No,Medium,Rejected
+LN0873,37,Male,Not Graduate,Self-Employed,Low,Good,No,Small,Approved
+LN0874,29,Male,Not Graduate,Salaried,High,Good,Yes,Small,Approved
+LN0875,31,Male,Graduate,Salaried,Low,Fair,Yes,Large,Rejected
+LN0876,35,Female,Graduate,Self-Employed,Medium,Good,No,Small,Rejected
+LN0877,44,Male,Not Graduate,Self-Employed,Medium,Poor,No,Medium,Rejected
+LN0878,58,Female,Graduate,Salaried,High,Good,Yes,Medium,Rejected
+LN0879,55,Male,Not Graduate,Self-Employed,Low,Poor,No,Medium,Rejected
+LN0880,50,Male,Not Graduate,Business,High,Excellent,No,Medium,Approved
+LN0881,51,Male,Not Graduate,Business,Medium,Excellent,No,Small,Approved
+LN0882,25,Male,Not Graduate,Other,High,Fair,Yes,Small,Rejected
+LN0883,34,Male,Graduate,Salaried,High,Fair,No,Medium,Approved
+LN0884,31,Female,Not Graduate,Salaried,Low,Good,Yes,Medium,Rejected
+LN0885,29,Female,Graduate,Business,Low,Fair,No,Medium,Rejected
+LN0886,54,Male,Not Graduate,Salaried,Low,Excellent,No,Medium,Approved
+LN0887,32,Female,Graduate,Salaried,Medium,Good,No,Small,Rejected
+LN0888,55,Female,Not Graduate,Salaried,Low,Fair,Yes,Large,Approved
+LN0889,55,Female,Not Graduate,Salaried,Low,Good,Yes,Medium,Approved
+LN0890,21,Male,Graduate,Salaried,Medium,Good,No,Small,Approved
+LN0891,60,Male,Graduate,Salaried,Low,Excellent,No,Medium,Approved
+LN0892,42,Male,Not Graduate,Salaried,Low,Excellent,No,Large,Approved
+LN0893,49,Male,Graduate,Salaried,Medium,Fair,No,Large,Rejected
+LN0894,28,Male,Graduate,Self-Employed,Low,Poor,No,Small,Rejected
+LN0895,31,Female,Graduate,Self-Employed,Medium,Excellent,Yes,Medium,Approved
+LN0896,57,Male,Graduate,Self-Employed,Medium,Excellent,Yes,Small,Approved
+LN0897,34,Male,Not Graduate,Salaried,Medium,Poor,Yes,Small,Rejected
+LN0898,50,Female,Graduate,Salaried,High,Good,Yes,Medium,Rejected
+LN0899,55,Female,Graduate,Self-Employed,Medium,Good,No,Medium,Rejected
+LN0900,41,Male,Graduate,Self-Employed,Medium,Fair,No,Medium,Rejected
+LN0901,57,Female,Graduate,Self-Employed,Medium,Excellent,No,Small,Rejected
+LN0902,25,Male,Graduate,Salaried,High,Fair,Yes,Small,Rejected
+LN0903,39,Male,Graduate,Other,High,Excellent,Yes,Medium,Rejected
+LN0904,34,Male,Graduate,Salaried,High,Fair,Yes,Small,Approved
+LN0905,46,Male,Graduate,Salaried,Medium,Good,Yes,Small,Rejected
+LN0906,24,Male,Not Graduate,Self-Employed,Low,Fair,No,Small,Rejected
+LN0907,45,Male,Graduate,Self-Employed,Low,Good,No,Medium,Rejected
+LN0908,45,Male,Graduate,Salaried,Low,Good,Yes,Small,Rejected
+LN0909,38,Male,Graduate,Salaried,High,Fair,Yes,Medium,Rejected
+LN0910,60,Male,Graduate,Business,Medium,Good,Yes,Small,Rejected
+LN0911,28,Female,Graduate,Salaried,Medium,Good,Yes,Small,Approved
+LN0912,59,Male,Graduate,Salaried,Low,Poor,No,Medium,Approved
+LN0913,60,Male,Not Graduate,Salaried,High,Good,Yes,Small,Approved
+LN0914,34,Male,Graduate,Business,Low,Fair,No,Medium,Rejected
+LN0915,52,Male,Graduate,Salaried,Low,Good,No,Small,Rejected
+LN0916,58,Male,Not Graduate,Other,Medium,Good,No,Medium,Rejected
+LN0917,53,Female,Graduate,Self-Employed,Medium,Good,No,Small,Rejected
+LN0918,43,Male,Graduate,Other,Medium,Poor,No,Small,Rejected
+LN0919,35,Male,Graduate,Other,High,Fair,Yes,Medium,Rejected
+LN0920,53,Female,Graduate,Salaried,Low,Good,No,Large,Rejected
+LN0921,45,Male,Not Graduate,Salaried,Medium,Good,No,Small,Approved
+LN0922,37,Female,Not Graduate,Salaried,Medium,Good,Yes,Medium,Rejected
+LN0923,53,Male,Not Graduate,Salaried,Low,Good,No,Medium,Approved
+LN0924,22,Male,Graduate,Business,High,Poor,No,Medium,Rejected
+LN0925,34,Male,Graduate,Salaried,Medium,Fair,No,Large,Rejected
+LN0926,60,Male,Graduate,Salaried,Medium,Fair,Yes,Small,Approved
+LN0927,60,Female,Graduate,Salaried,High,Poor,Yes,Large,Rejected
+LN0928,59,Female,Graduate,Other,Medium,Fair,No,Medium,Rejected
+LN0929,26,Female,Not Graduate,Salaried,Low,Fair,Yes,Small,Rejected
+LN0930,26,Female,Graduate,Salaried,Medium,Fair,No,Large,Approved
+LN0931,23,Male,Graduate,Salaried,Low,Poor,No,Medium,Rejected
+LN0932,27,Female,Graduate,Other,Low,Poor,Yes,Medium,Rejected
+LN0933,28,Male,Graduate,Self-Employed,Low,Poor,No,Medium,Approved
+LN0934,35,Male,Graduate,Salaried,Medium,Fair,No,Medium,Approved
+LN0935,49,Male,Not Graduate,Salaried,Medium,Fair,Yes,Small,Approved
+LN0936,53,Male,Graduate,Salaried,Low,Good,No,Medium,Approved
+LN0937,50,Male,Not Graduate,Salaried,Medium,Poor,No,Small,Approved
+LN0938,59,Female,Graduate,Other,High,Fair,No,Large,Approved
+LN0939,47,Male,Not Graduate,Business,Low,Fair,No,Large,Rejected
+LN0940,56,Male,Not Graduate,Salaried,Low,Fair,No,Medium,Approved
+LN0941,49,Male,Graduate,Business,Medium,Poor,No,Medium,Rejected
+LN0942,58,Female,Graduate,Salaried,Low,Good,No,Small,Rejected
+LN0943,53,Male,Not Graduate,Business,Medium,Good,No,Small,Approved
+LN0944,57,Female,Graduate,Business,Low,Fair,No,Large,Rejected
+LN0945,47,Male,Not Graduate,Salaried,Medium,Poor,No,Small,Rejected
+LN0946,53,Male,Graduate,Business,Medium,Excellent,Yes,Medium,Rejected
+LN0947,24,Male,Graduate,Salaried,Medium,Fair,No,Large,Approved
+LN0948,42,Female,Not Graduate,Salaried,High,Fair,No,Large,Rejected
+LN0949,22,Female,Not Graduate,Salaried,High,Excellent,Yes,Medium,Rejected
+LN0950,30,Male,Graduate,Salaried,Medium,Good,No,Medium,Approved
+LN0951,25,Male,Not Graduate,Business,Medium,Fair,Yes,Medium,Approved
+LN0952,30,Male,Graduate,Other,Low,Good,Yes,Large,Rejected
+LN0953,53,Male,Graduate,Self-Employed,Medium,Fair,No,Medium,Rejected
+LN0954,58,Male,Not Graduate,Business,Low,Poor,No,Medium,Rejected
+LN0955,33,Female,Not Graduate,Business,High,Good,Yes,Small,Rejected
+LN0956,51,Male,Not Graduate,Salaried,Low,Poor,No,Small,Approved
+LN0957,56,Male,Graduate,Self-Employed,Medium,Fair,No,Medium,Rejected
+LN0958,44,Male,Graduate,Salaried,Low,Excellent,Yes,Large,Approved
+LN0959,35,Male,Graduate,Business,Medium,Excellent,No,Large,Approved
+LN0960,49,Female,Graduate,Other,High,Fair,No,Large,Rejected
+LN0961,28,Male,Graduate,Salaried,Medium,Good,No,Medium,Approved
+LN0962,25,Female,Not Graduate,Business,High,Good,No,Medium,Approved
+LN0963,49,Female,Graduate,Self-Employed,Low,Excellent,No,Large,Approved
+LN0964,24,Male,Not Graduate,Self-Employed,Medium,Fair,Yes,Medium,Rejected
+LN0965,32,Female,Not Graduate,Salaried,High,Poor,Yes,Small,Rejected
+LN0966,22,Male,Graduate,Salaried,Low,Fair,No,Medium,Rejected
+LN0967,47,Female,Not Graduate,Salaried,High,Fair,No,Large,Rejected
+LN0968,51,Male,Not Graduate,Salaried,Low,Fair,Yes,Small,Approved
+LN0969,56,Male,Graduate,Salaried,Low,Good,No,Large,Rejected
+LN0970,56,Female,Graduate,Self-Employed,High,Good,No,Small,Approved
+LN0971,46,Female,Graduate,Salaried,Low,Fair,Yes,Medium,Rejected
+LN0972,47,Female,Graduate,Business,High,Good,Yes,Medium,Approved
+LN0973,25,Male,Not Graduate,Self-Employed,High,Poor,Yes,Medium,Rejected
+LN0974,40,Male,Graduate,Business,Low,Excellent,No,Medium,Rejected
+LN0975,31,Female,Not Graduate,Salaried,Medium,Excellent,Yes,Large,Approved
+LN0976,30,Male,Graduate,Self-Employed,Low,Excellent,No,Medium,Rejected
+LN0977,60,Female,Graduate,Other,Medium,Excellent,No,Small,Approved
+LN0978,58,Female,Not Graduate,Salaried,Low,Fair,No,Medium,Approved
+LN0979,26,Male,Graduate,Salaried,Low,Poor,Yes,Small,Rejected
+LN0980,28,Male,Graduate,Business,Medium,Good,No,Small,Approved
+LN0981,43,Male,Graduate,Salaried,Medium,Excellent,No,Medium,Approved
+LN0982,46,Male,Graduate,Salaried,High,Fair,No,Large,Approved
+LN0983,32,Female,Graduate,Salaried,High,Poor,No,Medium,Approved
+LN0984,46,Male,Graduate,Salaried,Medium,Good,No,Medium,Approved
+LN0985,33,Female,Graduate,Self-Employed,Medium,Poor,No,Medium,Rejected
+LN0986,60,Male,Not Graduate,Salaried,High,Fair,Yes,Small,Rejected
+LN0987,38,Female,Graduate,Business,Low,Good,Yes,Large,Rejected
+LN0988,45,Male,Graduate,Business,Medium,Fair,Yes,Medium,Rejected
+LN0989,53,Male,Graduate,Business,High,Poor,No,Large,Rejected
+LN0990,60,Male,Not Graduate,Self-Employed,Low,Good,Yes,Small,Approved
+LN0991,32,Female,Graduate,Business,Medium,Good,Yes,Small,Approved
+LN0992,56,Female,Graduate,Salaried,High,Excellent,No,Large,Approved
+LN0993,24,Female,Graduate,Business,High,Fair,Yes,Medium,Rejected
+LN0994,25,Male,Graduate,Business,Medium,Poor,Yes,Small,Approved
+LN0995,57,Male,Not Graduate,Business,Low,Good,Yes,Small,Rejected
+LN0996,28,Male,Not Graduate,Self-Employed,Low,Good,No,Large,Rejected
+LN0997,48,Male,Graduate,Salaried,Low,Fair,No,Medium,Approved
+LN0998,51,Male,Not Graduate,Salaried,Medium,Good,No,Medium,Approved
+LN0999,29,Female,Graduate,Business,Low,Fair,No,Small,Rejected
+LN1000,49,Female,Not Graduate,Salaried,High,Fair,No,Medium,Rejected
